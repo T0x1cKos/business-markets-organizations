@@ -4,7 +4,7 @@ Organized lecture notes, a navigable PDF, and an **interactive 100-question prac
 
 ## Interactive practice exam
 
-**[Take the exam online →](https://T0x1cKos.github.io/business-markets-organizations/)**
+**[Take the exam online →](https://t0x1ckos.github.io/business-markets-organizations/)**
 
 - Click answers for instant feedback (correct / incorrect + explanation)
 - Live score tracker and filters (unanswered / wrong / correct)
